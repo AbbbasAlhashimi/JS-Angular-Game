@@ -1,0 +1,48 @@
+[
+	{
+		"question" : "Who ____ Mr Sanchez to the airport yesterday?   ",
+		"answers" :
+		[
+			{"id" : 0, "text" : "Take"},
+			{"id" : 1, "text" : "took"},
+			{"id" : 2, "text" : "taking"},
+			{"id" : 3, "text" : "taken"}
+		],
+		"correct" : 2	
+
+	},
+
+		{
+		"question" : "___ Peter go skiing with you last year?",
+		"answers"  : [
+			{"id" : 0, "text" : "Was"},
+			{"id" : 1, "text" : "Has"},
+			{"id" : 2, "text" : "A"},
+			{"id" : 3, "text" : "Did"}
+		],
+		"correct"  : 3
+	},
+	{
+
+		"question" : "We missed the first part of the film because it ____ by the time we got to the cinema.",
+		"answers"  : [
+			{"id"  : 0, "text" : "was starting"},
+			{"id"  : 1, "text" : "had started"},
+			{"id"  : 2, "text" : "is started already"},
+			{"id"  : 3, "text" : "Started"}
+		],
+		"correct"  : 2
+	},
+	{
+		"question" : "Before they built the flats, that’s where the old garage used ____",
+		"answers"  : [
+
+			{"id"  : 0, "text" : "to be"},
+			{"id"  : 1, "text" : "being"},
+			{"id"  : 2, "text" : "to being"}
+		],
+		"correct"  : 0,
+		"feedback" : "Very Close!."
+	}
+
+]
